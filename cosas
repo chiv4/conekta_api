@@ -1,0 +1,8 @@
+app.js es entrada principal, inicia el servidor y configuracion basica
+
+paymentroutes.js "define rutas que gestionan las solicitudes de los pagos" 
+
+paymentcontroller.js "maneja la logica relacionada con los pagos recibe las solicitudes y
+                      las comunica con el servicio de conekta"
+conektaservice.js "interactua directamente con la api de conekta para procesar pagos"
+
